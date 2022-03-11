@@ -25,3 +25,6 @@ JAWABAN.
 
  3. atribut "title" digunakan untuk memberi keterangan pada sebuah gambar dengan cara kita mendekatkan cursor pada gambar
 ![title](https://user-images.githubusercontent.com/101391579/157886758-68f38e0b-7c1b-4fb5-8edd-b65bf5db52d3.png)
+
+    sedangkan untuk atribut "alt" digunakan untuk memberi keterangan jika gambar rusak
+    
