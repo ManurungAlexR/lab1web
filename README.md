@@ -27,4 +27,5 @@ JAWABAN.
 ![title](https://user-images.githubusercontent.com/101391579/157886758-68f38e0b-7c1b-4fb5-8edd-b65bf5db52d3.png)
 
     sedangkan untuk atribut "alt" digunakan untuk memberi keterangan jika gambar rusak
-    
+    ![alt](https://user-images.githubusercontent.com/101391579/157887386-18ca0bb7-dc84-48cd-9e5a-8cc69c401962.png)
+
