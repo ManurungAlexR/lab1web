@@ -19,4 +19,9 @@ SOAL.
 
 JAWABAN.
 
- 1. 
+ 1. untuk pengamatan nya, saya menggunakan tag <img src=>, pertama saya menuliskan <img src="Pelita Bangsa.png title="Logo Pelita Bangsa"> hasilnya keluar logo Universitas Pelita Bangsa. jika saya salah tulis menuliskan tag seperti <im src="> maka tidak akan muncul apa apa sama sekali.
+
+ 2. tag "p" digunakan untuk membuat sebuah paragraf, sedangkan tag "br" digunakan untuk membuat sebuah baris baru atau membuat enter
+
+ 3. atribut "title" digunakan untuk memberi keterangan pada sebuah gambar dengan cara kita mendekatkan cursor pada gambar
+    
