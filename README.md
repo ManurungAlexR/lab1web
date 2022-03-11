@@ -24,4 +24,5 @@ JAWABAN.
  2. tag "p" digunakan untuk membuat sebuah paragraf, sedangkan tag "br" digunakan untuk membuat sebuah baris baru atau membuat enter
 
  3. atribut "title" digunakan untuk memberi keterangan pada sebuah gambar dengan cara kita mendekatkan cursor pada gambar
+   
     
